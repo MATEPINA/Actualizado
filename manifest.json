@@ -1,0 +1,16 @@
+{
+  "name": "Ares-360 · MarsWalk HUD",
+  "short_name": "Ares-360",
+  "description": "Offline-first tactical HUD for an EVA in GALE CRATER · MOUNT SHARP (CURIOSITY MISSION) (NASA Space Apps · MarsWalk).",
+  "lang": "en",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0B0F19",
+  "theme_color": "#0B0F19",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
